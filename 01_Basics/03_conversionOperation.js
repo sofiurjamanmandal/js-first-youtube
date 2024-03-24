@@ -47,5 +47,5 @@ let negvalue = -value
 
 
 let gamecounter = 100
-gamecounter++
+++gamecounter
 console.log(gamecounter); // study link:- https://tc39.es/ecma262/multipage/abstract-operations.html#sec-type-conversion
